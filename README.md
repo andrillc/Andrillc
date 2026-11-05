@@ -1,6 +1,6 @@
-# Cauã Andrill Romão
+# 👨‍💻 Cauã Andrill Romão
 
-**Desenvolvedor Full Stack**
+**`Desenvolvedor Full Stack`**
 
 Tenho 22 anos, sou do Rio de Janeiro e desenvolvedor autodidata. Crio sites e sistemas web e já entreguei projetos reais, incluindo um freelance para cliente internacional. Curso Análise e Desenvolvimento de Sistemas na FAETERJ-Rio.
 
@@ -13,7 +13,7 @@ Tenho 22 anos, sou do Rio de Janeiro e desenvolvedor autodidata. Crio sites e si
 
 ---
 
-### Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
     <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
@@ -25,7 +25,7 @@ Tenho 22 anos, sou do Rio de Janeiro e desenvolvedor autodidata. Crio sites e si
     <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-### Projetos
+### 🚀 Projetos
 
 - **Site para sala de jogos e restaurante:** freelance para cliente internacional, com cardápio digital e mini game interativo.
 - **Pomodoro com lista de tarefas:** temas personalizáveis e frases motivacionais.
