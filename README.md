@@ -59,9 +59,7 @@ Tenho 22 anos, sou do **Rio de Janeiro** e desenvolvedor **autodidata**. Crio si
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" alt="Stats" src="https://SEU-APP.vercel.app/api?username=andrillc&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&title_color=FBC02D&icon_color=43A047&text_color=C9D1D9" />
-  <img height="170" alt="Top Langs" src="https://SEU-APP.vercel.app/api/top-langs/?username=andrillc&layout=compact&theme=dark&hide_border=true&bg_color=161B22&title_color=FBC02D&text_color=C9D1D9" />
-  <br/>
+
   <img alt="Streak" src="https://streak-stats.demolab.com/?user=andrillc&theme=dark&hide_border=true&background=161B22&ring=43A047&fire=FBC02D&currStreakLabel=FBC02D" />
 </div>
 
